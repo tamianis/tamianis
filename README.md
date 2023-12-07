@@ -1,12 +1,4 @@
-<h1 align="center">Hola 👋, soy Tamara Ianiszewski</h1><h3 align="center">Una apasionada desarrolladora frontend de la India</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=tamianis&label=Profile%20views&color=0e75b6&style=flat" alt="tamianis" /> </p>- 📫 Cómo contactarme **tamianis6@gmail.com**
-
-<h3 align="left">
-
-
-
-
-Conéctate conmigo: </h3>
-<p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/tamara-ianiszewski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamara-ianiszewski/" height="30" width="40" /></a></p>
+<h1 align="center">Hola 👋, soy Tamara Ianiszewski</h1><h3 align="center">Una apasionada desarrolladora frontend </h3>
 
 
 
@@ -16,3 +8,8 @@ Conéctate conmigo: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamianis&show_icons=true&locale=en&layout=compact" alt="tamianis" /></p><p>
 
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamianis&show_icons=true&locale=en" alt="tamianis" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tamara-ianiszewski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:tamianis6@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
