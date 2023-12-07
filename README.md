@@ -38,5 +38,5 @@ Mi objetivo a corto plazo es consolidar mis habilidades en el desarrollo fronten
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamara-ianiszewski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:tamianis6@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:tamara.ianiszewski.s@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
