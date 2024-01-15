@@ -1,6 +1,6 @@
 <h1 align="center">Hola soy Tamara Ianiszewski 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamianis&label=Profile%20views&color=0e75b6&style=flat" alt="tamianis" /> </p>
-Soy Ingeniera informatica pero aun sigo siendo novata en desarrollo front end  pero me encuentro en constante aprendizaje, siempre me ha gustado mas front end que back end pero no descarto algun dia aprender mas y poder perfeccionarme en ambos.
+Soy Ingeniera informatica dedicandome en desarrollo front end  pero me encuentro en constante aprendizaje, siempre me ha gustado mas front end que back end pero no descarto algun dia aprender mas y poder perfeccionarme en ambos.
 Mi objetivo a corto plazo es consolidar mis habilidades en el desarrollo frontend y explorar más a fondo las tecnologías relacionadas.
 <br><br>
 <b>En Repositories están los proyectos de los Bootcamps que he hecho hasta el momento.</b>
